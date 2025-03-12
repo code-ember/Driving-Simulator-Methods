@@ -1,4 +1,4 @@
-# DrivingSimulator
+# Driving Simulator
 Using conditional loops with Java
 
 In this lab, you will implement your understanding of conditional logic using iterative structures to build a driving simulator of a car that a user can control via the keyboard. 
